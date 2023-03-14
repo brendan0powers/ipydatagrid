@@ -133,7 +133,7 @@
         "singleton": true
       },
       "@lumino/datagrid": {
-        "bundled": false,
+        "bundled": true,
         "singleton": true
       },
       "@lumino/default-theme": {
